@@ -12,3 +12,9 @@ export interface ProjectProps {
   title:string;
   link:string;
 }
+
+export interface SocialProps {
+  id:number;
+  title:string;
+  link:string;
+}

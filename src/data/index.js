@@ -1,4 +1,3 @@
-import {DataProps} from '@/types/index'
 import amazonClone from "../../public/img/projects/amazonClone.webp"
 import reactBD from "../../public/img/projects/reactBD.png"
 import cyberBlog from "../../public/img/projects/cyberBlog.webp"
@@ -152,4 +151,33 @@ export const projectData = [
     title:"Dashboard",
     link:"https://amazonclone.reactbd.com/"
   }
+]
+
+
+export const socialLinkData = [
+  {
+    id:1,
+    title:"Github",
+    link:"https://github.com/Emran0335"
+  },
+  {
+    id:2,
+    title:"LinkedIn",
+    link:"https://www.linkedin.com/in/emran-hossain-83b89224b/"
+  },
+  {
+    id:3,
+    title:"Twitter",
+    link:"https://twitter.com/Emran0335"
+  },
+  {
+    id:4,
+    title:"Instagram",
+    link:"https://www.instagram.com/emranhossain0335/"
+  },
+  {
+    id:5,
+    title:"Facebook",
+    link:"https://www.facebook.com/emran.hossain.56027"
+  },
 ]
