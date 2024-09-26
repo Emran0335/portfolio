@@ -1,11 +1,9 @@
-import amazonClone from "../../public/img/projects/amazonClone.webp"
-import reactBD from "../../public/img/projects/reactBD.png"
 import cyberBlog from "../../public/img/projects/cyberBlog.webp"
-import emranShop from "../../public/img/projects/emranShop.webp"
 import dashboard from "../../public/img/projects/dashboard.webp"
 import dynamicPortfolio from "../../public/img/projects/dynamicPortfolio.png"
-import videoStreamingApp from "../../public/img/projects/videoStreamingApp.png"
+import emranShop from "../../public/img/projects/emranShop.webp"
 import todoTasksApp from "../../public/img/projects/todoTaskApp.png"
+import videoStreamingApp from "../../public/img/projects/videoStreamingApp.png"
 
 export const data = [
   {
@@ -120,7 +118,7 @@ export const projectData = [
   {
     id:1,
     img: videoStreamingApp,
-    title:"A Straming Videso App",
+    title:"A Streaming Videos App",
     link:"https://github.com/Emran0335/streamify-videos-app"
   },
   {
