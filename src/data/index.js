@@ -4,6 +4,8 @@ import cyberBlog from "../../public/img/projects/cyberBlog.webp"
 import emranShop from "../../public/img/projects/emranShop.webp"
 import dashboard from "../../public/img/projects/dashboard.webp"
 import dynamicPortfolio from "../../public/img/projects/dynamicPortfolio.png"
+import videoStreamingApp from "../../public/img/projects/videoStreamingApp.png"
+import todoTasksApp from "../../public/img/projects/todoTaskApp.png"
 
 export const data = [
   {
@@ -117,15 +119,15 @@ export const data = [
 export const projectData = [
   {
     id:1,
-    img: amazonClone,
-    title:"Amazon Clone",
-    link:"https://amazonclone.reactbd.com/"
+    img: videoStreamingApp,
+    title:"A Straming Videso App",
+    link:"https://github.com/Emran0335/streamify-videos-app"
   },
   {
     id:2,
-    img:reactBD,
-    title:"Cyber Security",
-    link:"https://reactbd.com/"
+    img:todoTasksApp,
+    title:"A Task Todo App",
+    link:"https://tasks-app-task-activities.vercel.app/"
   },
   {
     id:3,
